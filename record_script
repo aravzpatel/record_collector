@@ -1,6 +1,6 @@
 # Command logfile created by Lynx 2.8.9rel.1 (08 Jul 2018)
 # Arg0 = lynx
-# Arg1 = -cmd_log=./record_script
+# Arg1 = -cmd_log=./record_script2
 # Arg2 = -accept_all_cookies
 # Arg3 = http://www.google.co.uk/search?q=EMC+3157+discogs
 key n
@@ -26,8 +26,78 @@ key c
 key e
 key <space>
 key ^J
+key Down Arrow
 key p
 key ^J
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
 key <delete>
 key <delete>
 key <delete>
@@ -63,5 +133,6 @@ key <delete>
 key <delete>
 key 1
 key ^J
+key y
 key q
 key y
