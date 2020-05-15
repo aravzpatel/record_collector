@@ -1,0 +1,11 @@
+Statistics
+
+     * Have: 50
+     * Want: 4
+     * Avg Rating: 3.67 / 5
+     * Ratings: 3
+
+     * Last Sold: 14 Feb 20
+     * Lowest: £1.00
+     * Median: £2.75
+     * Highest: £6.99
