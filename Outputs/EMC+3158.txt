@@ -1,0 +1,11 @@
+Statistics
+
+     * Have: 12
+     * Want: 2
+     * Avg Rating: 1.0 / 5
+     * Ratings: 1
+
+     * Last Sold: 22 Oct 19
+     * Lowest: £1.70
+     * Median: £2.35
+     * Highest: £2.99
